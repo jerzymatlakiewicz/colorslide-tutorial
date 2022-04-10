@@ -1,4 +1,4 @@
-script: ""
+script: "/main/level_select.gui_script"
 fonts {
   name: "headings"
   font: "/assets/headings.font"
