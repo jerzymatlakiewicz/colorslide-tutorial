@@ -1,6 +1,6 @@
-name: "default"
+name: "level_3"
 instances {
-  id: "level"
+  id: "level_3"
   prototype: "/main/level.go"
   position {
     x: 0.0
