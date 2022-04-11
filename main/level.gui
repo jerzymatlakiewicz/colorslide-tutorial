@@ -1,4 +1,4 @@
-script: ""
+script: "/main/level.gui_script"
 fonts {
   name: "headings"
   font: "/assets/headings.font"
@@ -277,8 +277,8 @@ nodes {
     w: 1.0
   }
   color {
-    x: 0.8
-    y: 0.8
+    x: 0.9019608
+    y: 0.9019608
     z: 0.8
     w: 1.0
   }
